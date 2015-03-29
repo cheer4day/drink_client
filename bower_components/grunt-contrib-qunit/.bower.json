@@ -1,0 +1,15 @@
+{
+  "name": "grunt-contrib-qunit",
+  "homepage": "https://github.com/gruntjs/grunt-contrib-qunit",
+  "version": "0.5.2",
+  "_release": "0.5.2",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.5.2",
+    "commit": "6c5fe82e0653d8499002972dbcdf6601280700b4"
+  },
+  "_source": "git://github.com/gruntjs/grunt-contrib-qunit.git",
+  "_target": "~0.5.2",
+  "_originalSource": "grunt-contrib-qunit",
+  "_direct": true
+}

@@ -1,0 +1,49 @@
+{
+  "name": "drink_client",
+  "version": "0.0.0",
+  "authors": [
+    "Nagendra Gandla <gandla.nagendra@hotmail.com>"
+  ],
+  "description": "Desc",
+  "main": "app/css/main.css",
+  "keywords": [
+    "NA"
+  ],
+  "license": "MIT",
+  "homepage": "home.html",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.3",
+    "underscore": "~1.8.2",
+    "angular": "~1.3.15",
+    "bootstrap": "~3.3.4",
+    "grunt": "~0.4.5",
+    "d3": "~3.5.5",
+    "angular-route": "~1.3.15",
+    "angular-mocks": "~1.3.15",
+    "angular-animate": "~1.3.15",
+    "angular-cookies": "~1.3.15",
+    "grunt-contrib-qunit": "~0.5.2",
+    "grunt-contrib-watch": "~0.6.1"
+  },
+  "devDependencies": {
+    "jquery": "~2.1.3",
+    "underscore": "~1.8.2",
+    "angular": "~1.3.15",
+    "bootstrap": "~3.3.4",
+    "grunt": "~0.4.5",
+    "d3": "~3.5.5",
+    "angular-route": "~1.3.15",
+    "angular-mocks": "~1.3.15",
+    "angular-animate": "~1.3.15",
+    "angular-cookies": "~1.3.15",
+    "grunt-contrib-qunit": "~0.5.2",
+    "grunt-contrib-watch": "~0.6.1"
+  }
+}
